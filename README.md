@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @azkydinn
+- 👀 I’m interested in mobile apps development, desktop app and embedded system  
+- 🌱 I’m currently learning Flutter
+- 📫 Hit me on azky.dinn@gmail.com
